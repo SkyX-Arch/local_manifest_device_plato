@@ -11,7 +11,7 @@
 
     <!--Vendors Tree-->
     <project name="android_vendor_xiaomi_mt6895-common"     path="vendor/xiaomi/mt6895-common"     remote="XagaForge"  />
-    <project name="android_vendor_xiaomi_plato"             path="vendor/xiaomi/plato"             remote="gl"         />
+    <project name="android_vendor_xiaomi_plato"             path="vendor/xiaomi/plato"             remote="SkyX-Arch"         />
     <project name="vendor_DolbyAtmos"                       path="vendor/dolby"                    remote="SkyX-Arch" revision="S"  />
 
     <!--Kernel Tree-->
