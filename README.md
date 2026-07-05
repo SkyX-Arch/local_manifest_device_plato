@@ -15,7 +15,7 @@
 
 This local manifest is used to build custom ROMs for **Xiaomi 12T (plato)** based on **Android 16**.
 
-Place the manifest file into: .repo/local_manifests/plato.xml
+Place the manifest file into: **.repo/local_manifests/plato.xml**
 
 ---
 
