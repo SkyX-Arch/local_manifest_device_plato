@@ -39,6 +39,7 @@ Place the manifest file into: .repo/local_manifests/plato.xml
 
 ### 🔊 Dolby Atmos
 - https://github.com/SkyX-Arch/android_hardware_dolby
+- https://github.com/SkyX-Arch/android_hardware_dolby_interfaces
 - https://github.com/SkyX-Arch/vendor_DolbyAtmos
 - https://github.com/SkyX-Arch/android_packages_apps_LunarisDolby
 
