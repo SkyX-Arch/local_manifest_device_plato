@@ -61,6 +61,15 @@ Place the manifest file into: .repo/local_manifests/plato.xml
 
 ---
 
+## Credits
+
+Special thanks to:
+
+* [The LineageOS Project](https://github.com/LineageOS)
+* [XagaForge](https://github.com/XagaForge)
+* [Archcloudy](https://github.com/archcloudy)
+* [Xiaomi MT6895 Devs](https://github.com/xiaomi-mt6895-devs)
+
 ## 📸 Device
 
 <p align="center">
