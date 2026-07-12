@@ -18,7 +18,6 @@
     <project name="android_kernel_xiaomi_mt6895"            path="kernel/xiaomi/mt6895"            remote="XagaForge"  />
 
     <!--Hardware dependencies-->
-    <project name="android_hardware_xiaomi"                 path="hardware/xiaomi"             remote="XagaForge"      />
     <project name="android_hardware_mediatek"               path="hardware/mediatek"           remote="XagaForge"      />
     <project name="android_hardware_dolby"                  path="hardware/dolby"              remote="SkyX-Arch"  revision="16.0"     />
     <project name="android_packages_apps_LunarisDolby"      path="packages/apps/LunarisDolby"  remote="SkyX-Arch"  revision="16.0"   />
