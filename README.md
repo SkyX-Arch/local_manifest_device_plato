@@ -27,12 +27,10 @@ Place the manifest file into: **.repo/local_manifests/plato.xml**
 
 ### 📱 Device trees
 - https://github.com/SkyX-Arch/android_device_xiaomi_plato  
-- https://github.com/SkyX-Arch/android_device_xiaomi_mt6895-common  
 - https://github.com/XagaForge/android_device_mediatek_sepolicy_vndr  
 
 ### 📦 Vendor trees
 - https://github.com/SkyX-Arch/android_vendor_xiaomi_plato  
-- https://github.com/SkyX-Arch/android_vendor_xiaomi_mt6895-common  
 
 ### ⚙️ Kernel
 - https://github.com/XagaForge/android_kernel_xiaomi_mt6895  
