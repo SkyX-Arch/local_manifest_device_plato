@@ -13,7 +13,7 @@
     <project name="vendor_DolbyAtmos"                       path="vendor/dolby"                    remote="SkyX-Arch" revision="S"  />
 
     <!--Kernel Tree-->
-    <project name="android_kernel_xiaomi_mt6895"            path="kernel/xiaomi/mt6895"            remote="XagaForge"  />
+    <project name="android_kernel_xiaomi_mt6895"            path="kernel/xiaomi/mt6895"            remote="SkyX-Arch"  />
 
     <!--Hardware dependencies-->
     <project name="android_hardware_xiaomi"                 path="hardware/xiaomi"             remote="SkyX-Arch"      />
