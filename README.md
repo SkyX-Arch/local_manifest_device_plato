@@ -22,8 +22,8 @@ Place the manifest file into: **.repo/local_manifests/plato.xml**
 ## 🧩 Source repositories
 
 ### 🖥 Hardware
-- https://github.com/XagaForge/android_hardware_xiaomi  
-- https://github.com/XagaForge/android_hardware_mediatek  
+- https://github.com/SkyX-Arch/android_hardware_xiaomi 
+- https://github.com/SkyX-Arch/android_hardware_mediatek  
 
 ### 📱 Device trees
 - https://github.com/SkyX-Arch/android_device_xiaomi_plato  
@@ -33,7 +33,7 @@ Place the manifest file into: **.repo/local_manifests/plato.xml**
 - https://github.com/SkyX-Arch/android_vendor_xiaomi_plato  
 
 ### ⚙️ Kernel
-- https://github.com/XagaForge/android_kernel_xiaomi_mt6895  
+- https://github.com/SkyX-Arch/android_kernel_xiaomi_mt6895 
 
 ### 🔊 Dolby Atmos
 - https://github.com/SkyX-Arch/android_hardware_dolby
