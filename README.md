@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Android-16%20-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Android-17%20-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/Device-Xiaomi%2012T-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Codename-plato-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Platform-MediaTek%20MT6895-lightgrey?style=for-the-badge">
@@ -13,7 +13,7 @@
 
 ## 📌 Overview
 
-This local manifest is used to build custom ROMs for **Xiaomi 12T (plato)** based on **Android 16**.
+This local manifest is used to build custom ROMs for **Xiaomi 12T (plato)** based on **Android 17**.
 
 Place the manifest file into: **.repo/local_manifests/plato.xml**
 
