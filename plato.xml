@@ -6,7 +6,7 @@
     <remote name="SkyX-Arch"      fetch="https://github.com/SkyX-Arch"             revision="16.2"         />
     <!--Devices Trees-->
     <project name="android_device_xiaomi_plato"             path="device/xiaomi/plato"             remote="SkyX-Arch" />
-    <project name="android_device_mediatek_sepolicy_vndr"   path="device/mediatek/sepolicy_vndr"   remote="XagaForge"  />
+    <project name="android_device_mediatek_sepolicy_vndr"   path="device/mediatek/sepolicy_vndr"   remote="SkyX-Arch"  />
 
     <!--Vendors Tree-->
     <project name="android_vendor_xiaomi_plato"             path="vendor/xiaomi/plato"             remote="SkyX-Arch"         />
